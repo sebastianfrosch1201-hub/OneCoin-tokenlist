@@ -1,0 +1,19 @@
+{
+  "name": "OneCoin Tokenlist",
+  "timestamp": "2025-11-27T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x47663a9619021dff8a41d71e7ed549062d117308",
+      "name": "OneCoin",
+      "symbol": "ONC",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
